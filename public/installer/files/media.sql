@@ -1,0 +1,4 @@
+INSERT INTO `media` (`media_id`, `media_title`, `media_name`, `media_url`, `media_path`, `media_description`, `media_size`, `media_type`, `author`, `created_at`) VALUES
+(49, 'logo-sm', 'logo-sm', 'https://data.awebooking.org/storage/u-1/2020/01/07/logo-sm-1578387303.png', '/home/ohteamvn/public_html/awebooking.org/storage/app/public/u-1/2020/01/07/logo-sm-1578387303.png', 'logo-sm', '8699', 'png', 1, '1578387303'),
+(50, 'logo', 'logo', 'https://data.awebooking.org/storage/u-1/2020/01/07/logo-1578387303.png', '/home/ohteamvn/public_html/awebooking.org/storage/app/public/u-1/2020/01/07/logo-1578387303.png', 'logo', '9768', 'png', 1, '1578387303'),
+(51, 'logo-xs', 'logo-xs', 'https://data.awebooking.org/storage/u-1/2020/01/07/logo-xs-1578387303.png', '/home/ohteamvn/public_html/awebooking.org/storage/app/public/u-1/2020/01/07/logo-xs-1578387303.png', 'logo-xs', '7029', 'png', 1, '1578387303');
